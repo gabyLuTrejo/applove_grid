@@ -28,7 +28,8 @@ nav {
   position: fixed;
   background: white;
   width: 100%;
-  top: 0;
+  right: 0;
+  /*top: 0;*/
 }
 
 img {
@@ -63,4 +64,12 @@ a:hover {
 
 .text-home{
   font-size: 53px;
+}
+
+.btn-home{
+  background: #2ECC71; /*Texto*/
+  color: #FFF; /*Fondo*/
+  padding: 11px 20px;
+  border-radius: 1px;
+  font-size: 14px;
 }
