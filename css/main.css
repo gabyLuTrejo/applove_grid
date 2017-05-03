@@ -73,3 +73,13 @@ a:hover {
   border-radius: 1px;
   font-size: 14px;
 }
+
+#services{
+  background-color: #F17C72;
+  color: #FFF;
+  padding: 70px 7px;
+}
+
+.img-services {
+  height: 200px;
+}
