@@ -22,3 +22,13 @@
 .text-uppercase {
   text-transform: uppercase;
 }
+
+.img-200 {
+  height: 200px;
+}
+
+.padd-5 {
+  font-size: 14px;
+  width: 200px;
+  padding: 5px;
+}
